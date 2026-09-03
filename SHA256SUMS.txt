@@ -1,0 +1,2 @@
+915aa1909dd8b75fe6cba8b1ab57a9c1abe8a351b235ccdc22e88c81c3664e43  OpenPaper-v0.2.0-internal.2-Windows-x64-Portable.zip
+ba5fcf46dbf4be2b9b8220c7213efb95c2016d37673674a5f5a95dfd6e8a8bfb  DoiRescue-v0.1.0-Windows-x64.zip

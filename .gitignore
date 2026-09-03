@@ -1,0 +1,6 @@
+# Binary bundles are attached to GitHub Releases, not committed to Git.
+*.zip
+
+# Local verification output.
+*.tmp
+*.log
